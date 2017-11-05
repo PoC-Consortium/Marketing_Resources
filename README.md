@@ -1,4 +1,4 @@
-# Marketing Resources (work in progress)
+# Marketing Resources
 This repository holds various images, logos, press resources related to Burst.
 
 ## Burst logo
