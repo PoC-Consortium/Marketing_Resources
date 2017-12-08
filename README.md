@@ -1,6 +1,6 @@
 # Marketing Resources
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)<br>
-This repository holds various images, logos, press resources related to Burst.
+This repository holds various images, logos, press resources related to the Burst cryptocurrency.
 
 ## Burst logo
 The Burst logo and the Burst icon should be used by people fully aware that they represent the Burst brand and identity.<br>
